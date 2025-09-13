@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Daniel\\Desktop\\1st Certificate_Web & Computer Programming\\C# Practice (Bro Code)\\WhileLoops\\WhileLoops.csproj": {}
+    "C:\\Users\\Daniel\\Desktop\\1st Certificate_Web & Computer Programming\\C# Practice (Bro Code)\\WhileLoops\\WhileLoops.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Daniel\\Desktop\\1st Certificate_Web & Computer Programming\\C# Practice (Bro Code)\\WhileLoops\\WhileLoops.csproj": {
+    "C:\\Users\\Daniel\\Desktop\\1st Certificate_Web & Computer Programming\\C# Practice (Bro Code)\\WhileLoops\\WhileLoops.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Daniel\\Desktop\\1st Certificate_Web & Computer Programming\\C# Practice (Bro Code)\\WhileLoops\\WhileLoops.csproj",
+        "projectUniqueName": "C:\\Users\\Daniel\\Desktop\\1st Certificate_Web & Computer Programming\\C# Practice (Bro Code)\\WhileLoops\\WhileLoops.csproj",
         "projectName": "WhileLoops",
-        "projectPath": "c:\\Users\\Daniel\\Desktop\\1st Certificate_Web & Computer Programming\\C# Practice (Bro Code)\\WhileLoops\\WhileLoops.csproj",
+        "projectPath": "C:\\Users\\Daniel\\Desktop\\1st Certificate_Web & Computer Programming\\C# Practice (Bro Code)\\WhileLoops\\WhileLoops.csproj",
         "packagesPath": "C:\\Users\\Daniel\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Daniel\\Desktop\\1st Certificate_Web & Computer Programming\\C# Practice (Bro Code)\\WhileLoops\\obj\\",
+        "outputPath": "C:\\Users\\Daniel\\Desktop\\1st Certificate_Web & Computer Programming\\C# Practice (Bro Code)\\WhileLoops\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Daniel\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ToString-Method")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f073c5c7bc2f263c9504abb6acb62b18f60a997a")]
 [assembly: System.Reflection.AssemblyProductAttribute("ToString-Method")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ToString-Method")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
