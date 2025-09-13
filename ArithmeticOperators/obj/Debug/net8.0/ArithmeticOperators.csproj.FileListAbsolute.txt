@@ -1,0 +1,14 @@
+C:\Users\Daniel\Desktop\1st Certificate_Web & Computer Programming\C# Practice (Bro Code)\ArithmeticOperators\bin\Debug\net8.0\ArithmeticOperators.exe
+C:\Users\Daniel\Desktop\1st Certificate_Web & Computer Programming\C# Practice (Bro Code)\ArithmeticOperators\bin\Debug\net8.0\ArithmeticOperators.deps.json
+C:\Users\Daniel\Desktop\1st Certificate_Web & Computer Programming\C# Practice (Bro Code)\ArithmeticOperators\bin\Debug\net8.0\ArithmeticOperators.runtimeconfig.json
+C:\Users\Daniel\Desktop\1st Certificate_Web & Computer Programming\C# Practice (Bro Code)\ArithmeticOperators\bin\Debug\net8.0\ArithmeticOperators.dll
+C:\Users\Daniel\Desktop\1st Certificate_Web & Computer Programming\C# Practice (Bro Code)\ArithmeticOperators\bin\Debug\net8.0\ArithmeticOperators.pdb
+C:\Users\Daniel\Desktop\1st Certificate_Web & Computer Programming\C# Practice (Bro Code)\ArithmeticOperators\obj\Debug\net8.0\ArithmeticOperators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniel\Desktop\1st Certificate_Web & Computer Programming\C# Practice (Bro Code)\ArithmeticOperators\obj\Debug\net8.0\ArithmeticOperators.AssemblyInfoInputs.cache
+C:\Users\Daniel\Desktop\1st Certificate_Web & Computer Programming\C# Practice (Bro Code)\ArithmeticOperators\obj\Debug\net8.0\ArithmeticOperators.AssemblyInfo.cs
+C:\Users\Daniel\Desktop\1st Certificate_Web & Computer Programming\C# Practice (Bro Code)\ArithmeticOperators\obj\Debug\net8.0\ArithmeticOperators.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Desktop\1st Certificate_Web & Computer Programming\C# Practice (Bro Code)\ArithmeticOperators\obj\Debug\net8.0\ArithmeticOperators.dll
+C:\Users\Daniel\Desktop\1st Certificate_Web & Computer Programming\C# Practice (Bro Code)\ArithmeticOperators\obj\Debug\net8.0\refint\ArithmeticOperators.dll
+C:\Users\Daniel\Desktop\1st Certificate_Web & Computer Programming\C# Practice (Bro Code)\ArithmeticOperators\obj\Debug\net8.0\ArithmeticOperators.pdb
+C:\Users\Daniel\Desktop\1st Certificate_Web & Computer Programming\C# Practice (Bro Code)\ArithmeticOperators\obj\Debug\net8.0\ArithmeticOperators.genruntimeconfig.cache
+C:\Users\Daniel\Desktop\1st Certificate_Web & Computer Programming\C# Practice (Bro Code)\ArithmeticOperators\obj\Debug\net8.0\ref\ArithmeticOperators.dll

@@ -1,0 +1,14 @@
+C:\Users\Daniel\Desktop\1st Certificate_Web & Computer Programming\C# Practice (Bro Code)\Arrays\bin\Debug\net8.0\Arrays.exe
+C:\Users\Daniel\Desktop\1st Certificate_Web & Computer Programming\C# Practice (Bro Code)\Arrays\bin\Debug\net8.0\Arrays.deps.json
+C:\Users\Daniel\Desktop\1st Certificate_Web & Computer Programming\C# Practice (Bro Code)\Arrays\bin\Debug\net8.0\Arrays.runtimeconfig.json
+C:\Users\Daniel\Desktop\1st Certificate_Web & Computer Programming\C# Practice (Bro Code)\Arrays\bin\Debug\net8.0\Arrays.dll
+C:\Users\Daniel\Desktop\1st Certificate_Web & Computer Programming\C# Practice (Bro Code)\Arrays\bin\Debug\net8.0\Arrays.pdb
+C:\Users\Daniel\Desktop\1st Certificate_Web & Computer Programming\C# Practice (Bro Code)\Arrays\obj\Debug\net8.0\Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniel\Desktop\1st Certificate_Web & Computer Programming\C# Practice (Bro Code)\Arrays\obj\Debug\net8.0\Arrays.AssemblyInfoInputs.cache
+C:\Users\Daniel\Desktop\1st Certificate_Web & Computer Programming\C# Practice (Bro Code)\Arrays\obj\Debug\net8.0\Arrays.AssemblyInfo.cs
+C:\Users\Daniel\Desktop\1st Certificate_Web & Computer Programming\C# Practice (Bro Code)\Arrays\obj\Debug\net8.0\Arrays.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Desktop\1st Certificate_Web & Computer Programming\C# Practice (Bro Code)\Arrays\obj\Debug\net8.0\Arrays.dll
+C:\Users\Daniel\Desktop\1st Certificate_Web & Computer Programming\C# Practice (Bro Code)\Arrays\obj\Debug\net8.0\refint\Arrays.dll
+C:\Users\Daniel\Desktop\1st Certificate_Web & Computer Programming\C# Practice (Bro Code)\Arrays\obj\Debug\net8.0\Arrays.pdb
+C:\Users\Daniel\Desktop\1st Certificate_Web & Computer Programming\C# Practice (Bro Code)\Arrays\obj\Debug\net8.0\Arrays.genruntimeconfig.cache
+C:\Users\Daniel\Desktop\1st Certificate_Web & Computer Programming\C# Practice (Bro Code)\Arrays\obj\Debug\net8.0\ref\Arrays.dll

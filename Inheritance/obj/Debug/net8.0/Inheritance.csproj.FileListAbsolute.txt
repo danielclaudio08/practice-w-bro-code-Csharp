@@ -1,0 +1,14 @@
+C:\Users\Daniel\Desktop\1st Certificate_Web & Computer Programming\C# Practice (Bro Code)\Inheritance\bin\Debug\net8.0\Inheritance.exe
+C:\Users\Daniel\Desktop\1st Certificate_Web & Computer Programming\C# Practice (Bro Code)\Inheritance\bin\Debug\net8.0\Inheritance.deps.json
+C:\Users\Daniel\Desktop\1st Certificate_Web & Computer Programming\C# Practice (Bro Code)\Inheritance\bin\Debug\net8.0\Inheritance.runtimeconfig.json
+C:\Users\Daniel\Desktop\1st Certificate_Web & Computer Programming\C# Practice (Bro Code)\Inheritance\bin\Debug\net8.0\Inheritance.dll
+C:\Users\Daniel\Desktop\1st Certificate_Web & Computer Programming\C# Practice (Bro Code)\Inheritance\bin\Debug\net8.0\Inheritance.pdb
+C:\Users\Daniel\Desktop\1st Certificate_Web & Computer Programming\C# Practice (Bro Code)\Inheritance\obj\Debug\net8.0\Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniel\Desktop\1st Certificate_Web & Computer Programming\C# Practice (Bro Code)\Inheritance\obj\Debug\net8.0\Inheritance.AssemblyInfoInputs.cache
+C:\Users\Daniel\Desktop\1st Certificate_Web & Computer Programming\C# Practice (Bro Code)\Inheritance\obj\Debug\net8.0\Inheritance.AssemblyInfo.cs
+C:\Users\Daniel\Desktop\1st Certificate_Web & Computer Programming\C# Practice (Bro Code)\Inheritance\obj\Debug\net8.0\Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Desktop\1st Certificate_Web & Computer Programming\C# Practice (Bro Code)\Inheritance\obj\Debug\net8.0\Inheritance.dll
+C:\Users\Daniel\Desktop\1st Certificate_Web & Computer Programming\C# Practice (Bro Code)\Inheritance\obj\Debug\net8.0\refint\Inheritance.dll
+C:\Users\Daniel\Desktop\1st Certificate_Web & Computer Programming\C# Practice (Bro Code)\Inheritance\obj\Debug\net8.0\Inheritance.pdb
+C:\Users\Daniel\Desktop\1st Certificate_Web & Computer Programming\C# Practice (Bro Code)\Inheritance\obj\Debug\net8.0\Inheritance.genruntimeconfig.cache
+C:\Users\Daniel\Desktop\1st Certificate_Web & Computer Programming\C# Practice (Bro Code)\Inheritance\obj\Debug\net8.0\ref\Inheritance.dll

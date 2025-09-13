@@ -1,0 +1,14 @@
+c:\Users\Daniel\Desktop\1st Certificate_Web & Computer Programming\C# Practice (Bro Code)\WhileLoops\bin\Debug\net8.0\WhileLoops.exe
+c:\Users\Daniel\Desktop\1st Certificate_Web & Computer Programming\C# Practice (Bro Code)\WhileLoops\bin\Debug\net8.0\WhileLoops.deps.json
+c:\Users\Daniel\Desktop\1st Certificate_Web & Computer Programming\C# Practice (Bro Code)\WhileLoops\bin\Debug\net8.0\WhileLoops.runtimeconfig.json
+c:\Users\Daniel\Desktop\1st Certificate_Web & Computer Programming\C# Practice (Bro Code)\WhileLoops\bin\Debug\net8.0\WhileLoops.dll
+c:\Users\Daniel\Desktop\1st Certificate_Web & Computer Programming\C# Practice (Bro Code)\WhileLoops\bin\Debug\net8.0\WhileLoops.pdb
+c:\Users\Daniel\Desktop\1st Certificate_Web & Computer Programming\C# Practice (Bro Code)\WhileLoops\obj\Debug\net8.0\WhileLoops.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Daniel\Desktop\1st Certificate_Web & Computer Programming\C# Practice (Bro Code)\WhileLoops\obj\Debug\net8.0\WhileLoops.AssemblyInfoInputs.cache
+c:\Users\Daniel\Desktop\1st Certificate_Web & Computer Programming\C# Practice (Bro Code)\WhileLoops\obj\Debug\net8.0\WhileLoops.AssemblyInfo.cs
+c:\Users\Daniel\Desktop\1st Certificate_Web & Computer Programming\C# Practice (Bro Code)\WhileLoops\obj\Debug\net8.0\WhileLoops.csproj.CoreCompileInputs.cache
+c:\Users\Daniel\Desktop\1st Certificate_Web & Computer Programming\C# Practice (Bro Code)\WhileLoops\obj\Debug\net8.0\WhileLoops.dll
+c:\Users\Daniel\Desktop\1st Certificate_Web & Computer Programming\C# Practice (Bro Code)\WhileLoops\obj\Debug\net8.0\refint\WhileLoops.dll
+c:\Users\Daniel\Desktop\1st Certificate_Web & Computer Programming\C# Practice (Bro Code)\WhileLoops\obj\Debug\net8.0\WhileLoops.pdb
+c:\Users\Daniel\Desktop\1st Certificate_Web & Computer Programming\C# Practice (Bro Code)\WhileLoops\obj\Debug\net8.0\WhileLoops.genruntimeconfig.cache
+c:\Users\Daniel\Desktop\1st Certificate_Web & Computer Programming\C# Practice (Bro Code)\WhileLoops\obj\Debug\net8.0\ref\WhileLoops.dll

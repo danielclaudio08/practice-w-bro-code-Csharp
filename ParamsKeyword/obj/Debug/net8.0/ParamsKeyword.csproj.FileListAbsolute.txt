@@ -1,0 +1,14 @@
+C:\Users\Daniel\Desktop\1st Certificate_Web & Computer Programming\C# Practice (Bro Code)\ParamsKeyword\bin\Debug\net8.0\ParamsKeyword.exe
+C:\Users\Daniel\Desktop\1st Certificate_Web & Computer Programming\C# Practice (Bro Code)\ParamsKeyword\bin\Debug\net8.0\ParamsKeyword.deps.json
+C:\Users\Daniel\Desktop\1st Certificate_Web & Computer Programming\C# Practice (Bro Code)\ParamsKeyword\bin\Debug\net8.0\ParamsKeyword.runtimeconfig.json
+C:\Users\Daniel\Desktop\1st Certificate_Web & Computer Programming\C# Practice (Bro Code)\ParamsKeyword\bin\Debug\net8.0\ParamsKeyword.dll
+C:\Users\Daniel\Desktop\1st Certificate_Web & Computer Programming\C# Practice (Bro Code)\ParamsKeyword\bin\Debug\net8.0\ParamsKeyword.pdb
+C:\Users\Daniel\Desktop\1st Certificate_Web & Computer Programming\C# Practice (Bro Code)\ParamsKeyword\obj\Debug\net8.0\ParamsKeyword.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniel\Desktop\1st Certificate_Web & Computer Programming\C# Practice (Bro Code)\ParamsKeyword\obj\Debug\net8.0\ParamsKeyword.AssemblyInfoInputs.cache
+C:\Users\Daniel\Desktop\1st Certificate_Web & Computer Programming\C# Practice (Bro Code)\ParamsKeyword\obj\Debug\net8.0\ParamsKeyword.AssemblyInfo.cs
+C:\Users\Daniel\Desktop\1st Certificate_Web & Computer Programming\C# Practice (Bro Code)\ParamsKeyword\obj\Debug\net8.0\ParamsKeyword.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Desktop\1st Certificate_Web & Computer Programming\C# Practice (Bro Code)\ParamsKeyword\obj\Debug\net8.0\ParamsKeyword.dll
+C:\Users\Daniel\Desktop\1st Certificate_Web & Computer Programming\C# Practice (Bro Code)\ParamsKeyword\obj\Debug\net8.0\refint\ParamsKeyword.dll
+C:\Users\Daniel\Desktop\1st Certificate_Web & Computer Programming\C# Practice (Bro Code)\ParamsKeyword\obj\Debug\net8.0\ParamsKeyword.pdb
+C:\Users\Daniel\Desktop\1st Certificate_Web & Computer Programming\C# Practice (Bro Code)\ParamsKeyword\obj\Debug\net8.0\ParamsKeyword.genruntimeconfig.cache
+C:\Users\Daniel\Desktop\1st Certificate_Web & Computer Programming\C# Practice (Bro Code)\ParamsKeyword\obj\Debug\net8.0\ref\ParamsKeyword.dll

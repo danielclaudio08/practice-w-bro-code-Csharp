@@ -1,0 +1,14 @@
+C:\Users\Daniel\Desktop\1st Certificate_Web & Computer Programming\C# Practice (Bro Code)\Lists\bin\Debug\net8.0\Lists.exe
+C:\Users\Daniel\Desktop\1st Certificate_Web & Computer Programming\C# Practice (Bro Code)\Lists\bin\Debug\net8.0\Lists.deps.json
+C:\Users\Daniel\Desktop\1st Certificate_Web & Computer Programming\C# Practice (Bro Code)\Lists\bin\Debug\net8.0\Lists.runtimeconfig.json
+C:\Users\Daniel\Desktop\1st Certificate_Web & Computer Programming\C# Practice (Bro Code)\Lists\bin\Debug\net8.0\Lists.dll
+C:\Users\Daniel\Desktop\1st Certificate_Web & Computer Programming\C# Practice (Bro Code)\Lists\bin\Debug\net8.0\Lists.pdb
+C:\Users\Daniel\Desktop\1st Certificate_Web & Computer Programming\C# Practice (Bro Code)\Lists\obj\Debug\net8.0\Lists.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniel\Desktop\1st Certificate_Web & Computer Programming\C# Practice (Bro Code)\Lists\obj\Debug\net8.0\Lists.AssemblyInfoInputs.cache
+C:\Users\Daniel\Desktop\1st Certificate_Web & Computer Programming\C# Practice (Bro Code)\Lists\obj\Debug\net8.0\Lists.AssemblyInfo.cs
+C:\Users\Daniel\Desktop\1st Certificate_Web & Computer Programming\C# Practice (Bro Code)\Lists\obj\Debug\net8.0\Lists.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Desktop\1st Certificate_Web & Computer Programming\C# Practice (Bro Code)\Lists\obj\Debug\net8.0\Lists.dll
+C:\Users\Daniel\Desktop\1st Certificate_Web & Computer Programming\C# Practice (Bro Code)\Lists\obj\Debug\net8.0\refint\Lists.dll
+C:\Users\Daniel\Desktop\1st Certificate_Web & Computer Programming\C# Practice (Bro Code)\Lists\obj\Debug\net8.0\Lists.pdb
+C:\Users\Daniel\Desktop\1st Certificate_Web & Computer Programming\C# Practice (Bro Code)\Lists\obj\Debug\net8.0\Lists.genruntimeconfig.cache
+C:\Users\Daniel\Desktop\1st Certificate_Web & Computer Programming\C# Practice (Bro Code)\Lists\obj\Debug\net8.0\ref\Lists.dll

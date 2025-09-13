@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "HypotenuseCalculator-Program/1.0.0": {
+        "runtime": {
+          "HypotenuseCalculator-Program.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HypotenuseCalculator-Program/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

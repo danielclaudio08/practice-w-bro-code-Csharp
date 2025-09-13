@@ -1,0 +1,14 @@
+C:\Users\Daniel\Desktop\1st Certificate_Web & Computer Programming\C# Practice (Bro Code)\Rock-Paper-Scissors-Game\bin\Debug\net8.0\Rock-Paper-Scissors-Game.exe
+C:\Users\Daniel\Desktop\1st Certificate_Web & Computer Programming\C# Practice (Bro Code)\Rock-Paper-Scissors-Game\bin\Debug\net8.0\Rock-Paper-Scissors-Game.deps.json
+C:\Users\Daniel\Desktop\1st Certificate_Web & Computer Programming\C# Practice (Bro Code)\Rock-Paper-Scissors-Game\bin\Debug\net8.0\Rock-Paper-Scissors-Game.runtimeconfig.json
+C:\Users\Daniel\Desktop\1st Certificate_Web & Computer Programming\C# Practice (Bro Code)\Rock-Paper-Scissors-Game\bin\Debug\net8.0\Rock-Paper-Scissors-Game.dll
+C:\Users\Daniel\Desktop\1st Certificate_Web & Computer Programming\C# Practice (Bro Code)\Rock-Paper-Scissors-Game\bin\Debug\net8.0\Rock-Paper-Scissors-Game.pdb
+C:\Users\Daniel\Desktop\1st Certificate_Web & Computer Programming\C# Practice (Bro Code)\Rock-Paper-Scissors-Game\obj\Debug\net8.0\Rock-Paper-Scissors-Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniel\Desktop\1st Certificate_Web & Computer Programming\C# Practice (Bro Code)\Rock-Paper-Scissors-Game\obj\Debug\net8.0\Rock-Paper-Scissors-Game.AssemblyInfoInputs.cache
+C:\Users\Daniel\Desktop\1st Certificate_Web & Computer Programming\C# Practice (Bro Code)\Rock-Paper-Scissors-Game\obj\Debug\net8.0\Rock-Paper-Scissors-Game.AssemblyInfo.cs
+C:\Users\Daniel\Desktop\1st Certificate_Web & Computer Programming\C# Practice (Bro Code)\Rock-Paper-Scissors-Game\obj\Debug\net8.0\Rock-Paper-Scissors-Game.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Desktop\1st Certificate_Web & Computer Programming\C# Practice (Bro Code)\Rock-Paper-Scissors-Game\obj\Debug\net8.0\Rock-Paper-Scissors-Game.dll
+C:\Users\Daniel\Desktop\1st Certificate_Web & Computer Programming\C# Practice (Bro Code)\Rock-Paper-Scissors-Game\obj\Debug\net8.0\refint\Rock-Paper-Scissors-Game.dll
+C:\Users\Daniel\Desktop\1st Certificate_Web & Computer Programming\C# Practice (Bro Code)\Rock-Paper-Scissors-Game\obj\Debug\net8.0\Rock-Paper-Scissors-Game.pdb
+C:\Users\Daniel\Desktop\1st Certificate_Web & Computer Programming\C# Practice (Bro Code)\Rock-Paper-Scissors-Game\obj\Debug\net8.0\Rock-Paper-Scissors-Game.genruntimeconfig.cache
+C:\Users\Daniel\Desktop\1st Certificate_Web & Computer Programming\C# Practice (Bro Code)\Rock-Paper-Scissors-Game\obj\Debug\net8.0\ref\Rock-Paper-Scissors-Game.dll

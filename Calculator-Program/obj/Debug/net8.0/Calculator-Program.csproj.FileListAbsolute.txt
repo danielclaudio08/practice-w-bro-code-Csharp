@@ -1,0 +1,14 @@
+C:\Users\Daniel\Desktop\1st Certificate_Web & Computer Programming\C# Practice (Bro Code)\Calculator-Program\bin\Debug\net8.0\Calculator-Program.exe
+C:\Users\Daniel\Desktop\1st Certificate_Web & Computer Programming\C# Practice (Bro Code)\Calculator-Program\bin\Debug\net8.0\Calculator-Program.deps.json
+C:\Users\Daniel\Desktop\1st Certificate_Web & Computer Programming\C# Practice (Bro Code)\Calculator-Program\bin\Debug\net8.0\Calculator-Program.runtimeconfig.json
+C:\Users\Daniel\Desktop\1st Certificate_Web & Computer Programming\C# Practice (Bro Code)\Calculator-Program\bin\Debug\net8.0\Calculator-Program.dll
+C:\Users\Daniel\Desktop\1st Certificate_Web & Computer Programming\C# Practice (Bro Code)\Calculator-Program\bin\Debug\net8.0\Calculator-Program.pdb
+C:\Users\Daniel\Desktop\1st Certificate_Web & Computer Programming\C# Practice (Bro Code)\Calculator-Program\obj\Debug\net8.0\Calculator-Program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniel\Desktop\1st Certificate_Web & Computer Programming\C# Practice (Bro Code)\Calculator-Program\obj\Debug\net8.0\Calculator-Program.AssemblyInfoInputs.cache
+C:\Users\Daniel\Desktop\1st Certificate_Web & Computer Programming\C# Practice (Bro Code)\Calculator-Program\obj\Debug\net8.0\Calculator-Program.AssemblyInfo.cs
+C:\Users\Daniel\Desktop\1st Certificate_Web & Computer Programming\C# Practice (Bro Code)\Calculator-Program\obj\Debug\net8.0\Calculator-Program.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Desktop\1st Certificate_Web & Computer Programming\C# Practice (Bro Code)\Calculator-Program\obj\Debug\net8.0\Calculator-Program.dll
+C:\Users\Daniel\Desktop\1st Certificate_Web & Computer Programming\C# Practice (Bro Code)\Calculator-Program\obj\Debug\net8.0\refint\Calculator-Program.dll
+C:\Users\Daniel\Desktop\1st Certificate_Web & Computer Programming\C# Practice (Bro Code)\Calculator-Program\obj\Debug\net8.0\Calculator-Program.pdb
+C:\Users\Daniel\Desktop\1st Certificate_Web & Computer Programming\C# Practice (Bro Code)\Calculator-Program\obj\Debug\net8.0\Calculator-Program.genruntimeconfig.cache
+C:\Users\Daniel\Desktop\1st Certificate_Web & Computer Programming\C# Practice (Bro Code)\Calculator-Program\obj\Debug\net8.0\ref\Calculator-Program.dll

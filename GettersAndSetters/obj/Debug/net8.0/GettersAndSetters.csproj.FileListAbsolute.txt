@@ -1,0 +1,14 @@
+C:\Users\Daniel\Desktop\1st Certificate_Web & Computer Programming\C# Practice (Bro Code)\GettersAndSetters\bin\Debug\net8.0\GettersAndSetters.exe
+C:\Users\Daniel\Desktop\1st Certificate_Web & Computer Programming\C# Practice (Bro Code)\GettersAndSetters\bin\Debug\net8.0\GettersAndSetters.deps.json
+C:\Users\Daniel\Desktop\1st Certificate_Web & Computer Programming\C# Practice (Bro Code)\GettersAndSetters\bin\Debug\net8.0\GettersAndSetters.runtimeconfig.json
+C:\Users\Daniel\Desktop\1st Certificate_Web & Computer Programming\C# Practice (Bro Code)\GettersAndSetters\bin\Debug\net8.0\GettersAndSetters.dll
+C:\Users\Daniel\Desktop\1st Certificate_Web & Computer Programming\C# Practice (Bro Code)\GettersAndSetters\bin\Debug\net8.0\GettersAndSetters.pdb
+C:\Users\Daniel\Desktop\1st Certificate_Web & Computer Programming\C# Practice (Bro Code)\GettersAndSetters\obj\Debug\net8.0\GettersAndSetters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniel\Desktop\1st Certificate_Web & Computer Programming\C# Practice (Bro Code)\GettersAndSetters\obj\Debug\net8.0\GettersAndSetters.AssemblyInfoInputs.cache
+C:\Users\Daniel\Desktop\1st Certificate_Web & Computer Programming\C# Practice (Bro Code)\GettersAndSetters\obj\Debug\net8.0\GettersAndSetters.AssemblyInfo.cs
+C:\Users\Daniel\Desktop\1st Certificate_Web & Computer Programming\C# Practice (Bro Code)\GettersAndSetters\obj\Debug\net8.0\GettersAndSetters.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Desktop\1st Certificate_Web & Computer Programming\C# Practice (Bro Code)\GettersAndSetters\obj\Debug\net8.0\GettersAndSetters.dll
+C:\Users\Daniel\Desktop\1st Certificate_Web & Computer Programming\C# Practice (Bro Code)\GettersAndSetters\obj\Debug\net8.0\refint\GettersAndSetters.dll
+C:\Users\Daniel\Desktop\1st Certificate_Web & Computer Programming\C# Practice (Bro Code)\GettersAndSetters\obj\Debug\net8.0\GettersAndSetters.pdb
+C:\Users\Daniel\Desktop\1st Certificate_Web & Computer Programming\C# Practice (Bro Code)\GettersAndSetters\obj\Debug\net8.0\GettersAndSetters.genruntimeconfig.cache
+C:\Users\Daniel\Desktop\1st Certificate_Web & Computer Programming\C# Practice (Bro Code)\GettersAndSetters\obj\Debug\net8.0\ref\GettersAndSetters.dll

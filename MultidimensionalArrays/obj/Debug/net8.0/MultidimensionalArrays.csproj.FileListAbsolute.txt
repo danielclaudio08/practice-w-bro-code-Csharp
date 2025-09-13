@@ -1,0 +1,14 @@
+C:\Users\Daniel\Desktop\1st Certificate_Web & Computer Programming\C# Practice (Bro Code)\MultidimensionalArrays\bin\Debug\net8.0\MultidimensionalArrays.exe
+C:\Users\Daniel\Desktop\1st Certificate_Web & Computer Programming\C# Practice (Bro Code)\MultidimensionalArrays\bin\Debug\net8.0\MultidimensionalArrays.deps.json
+C:\Users\Daniel\Desktop\1st Certificate_Web & Computer Programming\C# Practice (Bro Code)\MultidimensionalArrays\bin\Debug\net8.0\MultidimensionalArrays.runtimeconfig.json
+C:\Users\Daniel\Desktop\1st Certificate_Web & Computer Programming\C# Practice (Bro Code)\MultidimensionalArrays\bin\Debug\net8.0\MultidimensionalArrays.dll
+C:\Users\Daniel\Desktop\1st Certificate_Web & Computer Programming\C# Practice (Bro Code)\MultidimensionalArrays\bin\Debug\net8.0\MultidimensionalArrays.pdb
+C:\Users\Daniel\Desktop\1st Certificate_Web & Computer Programming\C# Practice (Bro Code)\MultidimensionalArrays\obj\Debug\net8.0\MultidimensionalArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniel\Desktop\1st Certificate_Web & Computer Programming\C# Practice (Bro Code)\MultidimensionalArrays\obj\Debug\net8.0\MultidimensionalArrays.AssemblyInfoInputs.cache
+C:\Users\Daniel\Desktop\1st Certificate_Web & Computer Programming\C# Practice (Bro Code)\MultidimensionalArrays\obj\Debug\net8.0\MultidimensionalArrays.AssemblyInfo.cs
+C:\Users\Daniel\Desktop\1st Certificate_Web & Computer Programming\C# Practice (Bro Code)\MultidimensionalArrays\obj\Debug\net8.0\MultidimensionalArrays.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Desktop\1st Certificate_Web & Computer Programming\C# Practice (Bro Code)\MultidimensionalArrays\obj\Debug\net8.0\MultidimensionalArrays.dll
+C:\Users\Daniel\Desktop\1st Certificate_Web & Computer Programming\C# Practice (Bro Code)\MultidimensionalArrays\obj\Debug\net8.0\refint\MultidimensionalArrays.dll
+C:\Users\Daniel\Desktop\1st Certificate_Web & Computer Programming\C# Practice (Bro Code)\MultidimensionalArrays\obj\Debug\net8.0\MultidimensionalArrays.pdb
+C:\Users\Daniel\Desktop\1st Certificate_Web & Computer Programming\C# Practice (Bro Code)\MultidimensionalArrays\obj\Debug\net8.0\MultidimensionalArrays.genruntimeconfig.cache
+C:\Users\Daniel\Desktop\1st Certificate_Web & Computer Programming\C# Practice (Bro Code)\MultidimensionalArrays\obj\Debug\net8.0\ref\MultidimensionalArrays.dll

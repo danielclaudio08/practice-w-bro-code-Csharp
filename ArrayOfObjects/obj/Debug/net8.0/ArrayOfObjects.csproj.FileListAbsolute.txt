@@ -1,0 +1,14 @@
+C:\Users\Daniel\Desktop\1st Certificate_Web & Computer Programming\C# Practice (Bro Code)\ArrayOfObjects\bin\Debug\net8.0\ArrayOfObjects.exe
+C:\Users\Daniel\Desktop\1st Certificate_Web & Computer Programming\C# Practice (Bro Code)\ArrayOfObjects\bin\Debug\net8.0\ArrayOfObjects.deps.json
+C:\Users\Daniel\Desktop\1st Certificate_Web & Computer Programming\C# Practice (Bro Code)\ArrayOfObjects\bin\Debug\net8.0\ArrayOfObjects.runtimeconfig.json
+C:\Users\Daniel\Desktop\1st Certificate_Web & Computer Programming\C# Practice (Bro Code)\ArrayOfObjects\bin\Debug\net8.0\ArrayOfObjects.dll
+C:\Users\Daniel\Desktop\1st Certificate_Web & Computer Programming\C# Practice (Bro Code)\ArrayOfObjects\bin\Debug\net8.0\ArrayOfObjects.pdb
+C:\Users\Daniel\Desktop\1st Certificate_Web & Computer Programming\C# Practice (Bro Code)\ArrayOfObjects\obj\Debug\net8.0\ArrayOfObjects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniel\Desktop\1st Certificate_Web & Computer Programming\C# Practice (Bro Code)\ArrayOfObjects\obj\Debug\net8.0\ArrayOfObjects.AssemblyInfoInputs.cache
+C:\Users\Daniel\Desktop\1st Certificate_Web & Computer Programming\C# Practice (Bro Code)\ArrayOfObjects\obj\Debug\net8.0\ArrayOfObjects.AssemblyInfo.cs
+C:\Users\Daniel\Desktop\1st Certificate_Web & Computer Programming\C# Practice (Bro Code)\ArrayOfObjects\obj\Debug\net8.0\ArrayOfObjects.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Desktop\1st Certificate_Web & Computer Programming\C# Practice (Bro Code)\ArrayOfObjects\obj\Debug\net8.0\ArrayOfObjects.dll
+C:\Users\Daniel\Desktop\1st Certificate_Web & Computer Programming\C# Practice (Bro Code)\ArrayOfObjects\obj\Debug\net8.0\refint\ArrayOfObjects.dll
+C:\Users\Daniel\Desktop\1st Certificate_Web & Computer Programming\C# Practice (Bro Code)\ArrayOfObjects\obj\Debug\net8.0\ArrayOfObjects.pdb
+C:\Users\Daniel\Desktop\1st Certificate_Web & Computer Programming\C# Practice (Bro Code)\ArrayOfObjects\obj\Debug\net8.0\ArrayOfObjects.genruntimeconfig.cache
+C:\Users\Daniel\Desktop\1st Certificate_Web & Computer Programming\C# Practice (Bro Code)\ArrayOfObjects\obj\Debug\net8.0\ref\ArrayOfObjects.dll

@@ -1,0 +1,14 @@
+C:\Users\Daniel\Desktop\1st Certificate_Web & Computer Programming\C# Practice (Bro Code)\ObjectsAsArguments\bin\Debug\net8.0\ObjectsAsArguments.exe
+C:\Users\Daniel\Desktop\1st Certificate_Web & Computer Programming\C# Practice (Bro Code)\ObjectsAsArguments\bin\Debug\net8.0\ObjectsAsArguments.deps.json
+C:\Users\Daniel\Desktop\1st Certificate_Web & Computer Programming\C# Practice (Bro Code)\ObjectsAsArguments\bin\Debug\net8.0\ObjectsAsArguments.runtimeconfig.json
+C:\Users\Daniel\Desktop\1st Certificate_Web & Computer Programming\C# Practice (Bro Code)\ObjectsAsArguments\bin\Debug\net8.0\ObjectsAsArguments.dll
+C:\Users\Daniel\Desktop\1st Certificate_Web & Computer Programming\C# Practice (Bro Code)\ObjectsAsArguments\bin\Debug\net8.0\ObjectsAsArguments.pdb
+C:\Users\Daniel\Desktop\1st Certificate_Web & Computer Programming\C# Practice (Bro Code)\ObjectsAsArguments\obj\Debug\net8.0\ObjectsAsArguments.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniel\Desktop\1st Certificate_Web & Computer Programming\C# Practice (Bro Code)\ObjectsAsArguments\obj\Debug\net8.0\ObjectsAsArguments.AssemblyInfoInputs.cache
+C:\Users\Daniel\Desktop\1st Certificate_Web & Computer Programming\C# Practice (Bro Code)\ObjectsAsArguments\obj\Debug\net8.0\ObjectsAsArguments.AssemblyInfo.cs
+C:\Users\Daniel\Desktop\1st Certificate_Web & Computer Programming\C# Practice (Bro Code)\ObjectsAsArguments\obj\Debug\net8.0\ObjectsAsArguments.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Desktop\1st Certificate_Web & Computer Programming\C# Practice (Bro Code)\ObjectsAsArguments\obj\Debug\net8.0\ObjectsAsArguments.dll
+C:\Users\Daniel\Desktop\1st Certificate_Web & Computer Programming\C# Practice (Bro Code)\ObjectsAsArguments\obj\Debug\net8.0\refint\ObjectsAsArguments.dll
+C:\Users\Daniel\Desktop\1st Certificate_Web & Computer Programming\C# Practice (Bro Code)\ObjectsAsArguments\obj\Debug\net8.0\ObjectsAsArguments.pdb
+C:\Users\Daniel\Desktop\1st Certificate_Web & Computer Programming\C# Practice (Bro Code)\ObjectsAsArguments\obj\Debug\net8.0\ObjectsAsArguments.genruntimeconfig.cache
+C:\Users\Daniel\Desktop\1st Certificate_Web & Computer Programming\C# Practice (Bro Code)\ObjectsAsArguments\obj\Debug\net8.0\ref\ObjectsAsArguments.dll

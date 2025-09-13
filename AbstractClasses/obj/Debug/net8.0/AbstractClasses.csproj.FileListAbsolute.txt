@@ -1,0 +1,14 @@
+C:\Users\Daniel\Desktop\1st Certificate_Web & Computer Programming\C# Practice (Bro Code)\AbstractClasses\bin\Debug\net8.0\AbstractClasses.exe
+C:\Users\Daniel\Desktop\1st Certificate_Web & Computer Programming\C# Practice (Bro Code)\AbstractClasses\bin\Debug\net8.0\AbstractClasses.deps.json
+C:\Users\Daniel\Desktop\1st Certificate_Web & Computer Programming\C# Practice (Bro Code)\AbstractClasses\bin\Debug\net8.0\AbstractClasses.runtimeconfig.json
+C:\Users\Daniel\Desktop\1st Certificate_Web & Computer Programming\C# Practice (Bro Code)\AbstractClasses\bin\Debug\net8.0\AbstractClasses.dll
+C:\Users\Daniel\Desktop\1st Certificate_Web & Computer Programming\C# Practice (Bro Code)\AbstractClasses\bin\Debug\net8.0\AbstractClasses.pdb
+C:\Users\Daniel\Desktop\1st Certificate_Web & Computer Programming\C# Practice (Bro Code)\AbstractClasses\obj\Debug\net8.0\AbstractClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniel\Desktop\1st Certificate_Web & Computer Programming\C# Practice (Bro Code)\AbstractClasses\obj\Debug\net8.0\AbstractClasses.AssemblyInfoInputs.cache
+C:\Users\Daniel\Desktop\1st Certificate_Web & Computer Programming\C# Practice (Bro Code)\AbstractClasses\obj\Debug\net8.0\AbstractClasses.AssemblyInfo.cs
+C:\Users\Daniel\Desktop\1st Certificate_Web & Computer Programming\C# Practice (Bro Code)\AbstractClasses\obj\Debug\net8.0\AbstractClasses.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Desktop\1st Certificate_Web & Computer Programming\C# Practice (Bro Code)\AbstractClasses\obj\Debug\net8.0\AbstractClasses.dll
+C:\Users\Daniel\Desktop\1st Certificate_Web & Computer Programming\C# Practice (Bro Code)\AbstractClasses\obj\Debug\net8.0\refint\AbstractClasses.dll
+C:\Users\Daniel\Desktop\1st Certificate_Web & Computer Programming\C# Practice (Bro Code)\AbstractClasses\obj\Debug\net8.0\AbstractClasses.pdb
+C:\Users\Daniel\Desktop\1st Certificate_Web & Computer Programming\C# Practice (Bro Code)\AbstractClasses\obj\Debug\net8.0\AbstractClasses.genruntimeconfig.cache
+C:\Users\Daniel\Desktop\1st Certificate_Web & Computer Programming\C# Practice (Bro Code)\AbstractClasses\obj\Debug\net8.0\ref\AbstractClasses.dll

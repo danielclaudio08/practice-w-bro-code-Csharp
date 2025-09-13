@@ -1,0 +1,14 @@
+C:\Users\Daniel\Desktop\1st Certificate_Web & Computer Programming\C# Practice (Bro Code)\HypotenuseCalculator-Program\bin\Debug\net8.0\HypotenuseCalculator-Program.exe
+C:\Users\Daniel\Desktop\1st Certificate_Web & Computer Programming\C# Practice (Bro Code)\HypotenuseCalculator-Program\bin\Debug\net8.0\HypotenuseCalculator-Program.deps.json
+C:\Users\Daniel\Desktop\1st Certificate_Web & Computer Programming\C# Practice (Bro Code)\HypotenuseCalculator-Program\bin\Debug\net8.0\HypotenuseCalculator-Program.runtimeconfig.json
+C:\Users\Daniel\Desktop\1st Certificate_Web & Computer Programming\C# Practice (Bro Code)\HypotenuseCalculator-Program\bin\Debug\net8.0\HypotenuseCalculator-Program.dll
+C:\Users\Daniel\Desktop\1st Certificate_Web & Computer Programming\C# Practice (Bro Code)\HypotenuseCalculator-Program\bin\Debug\net8.0\HypotenuseCalculator-Program.pdb
+C:\Users\Daniel\Desktop\1st Certificate_Web & Computer Programming\C# Practice (Bro Code)\HypotenuseCalculator-Program\obj\Debug\net8.0\HypotenuseCalculator-Program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniel\Desktop\1st Certificate_Web & Computer Programming\C# Practice (Bro Code)\HypotenuseCalculator-Program\obj\Debug\net8.0\HypotenuseCalculator-Program.AssemblyInfoInputs.cache
+C:\Users\Daniel\Desktop\1st Certificate_Web & Computer Programming\C# Practice (Bro Code)\HypotenuseCalculator-Program\obj\Debug\net8.0\HypotenuseCalculator-Program.AssemblyInfo.cs
+C:\Users\Daniel\Desktop\1st Certificate_Web & Computer Programming\C# Practice (Bro Code)\HypotenuseCalculator-Program\obj\Debug\net8.0\HypotenuseCalculator-Program.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Desktop\1st Certificate_Web & Computer Programming\C# Practice (Bro Code)\HypotenuseCalculator-Program\obj\Debug\net8.0\HypotenuseCalculator-Program.dll
+C:\Users\Daniel\Desktop\1st Certificate_Web & Computer Programming\C# Practice (Bro Code)\HypotenuseCalculator-Program\obj\Debug\net8.0\refint\HypotenuseCalculator-Program.dll
+C:\Users\Daniel\Desktop\1st Certificate_Web & Computer Programming\C# Practice (Bro Code)\HypotenuseCalculator-Program\obj\Debug\net8.0\HypotenuseCalculator-Program.pdb
+C:\Users\Daniel\Desktop\1st Certificate_Web & Computer Programming\C# Practice (Bro Code)\HypotenuseCalculator-Program\obj\Debug\net8.0\HypotenuseCalculator-Program.genruntimeconfig.cache
+C:\Users\Daniel\Desktop\1st Certificate_Web & Computer Programming\C# Practice (Bro Code)\HypotenuseCalculator-Program\obj\Debug\net8.0\ref\HypotenuseCalculator-Program.dll

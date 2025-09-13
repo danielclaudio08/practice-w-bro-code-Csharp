@@ -1,0 +1,14 @@
+C:\Users\Daniel\Desktop\1st Certificate_Web & Computer Programming\C# Practice (Bro Code)\ConditionalOperator\bin\Debug\net8.0\ConditionalOperator.exe
+C:\Users\Daniel\Desktop\1st Certificate_Web & Computer Programming\C# Practice (Bro Code)\ConditionalOperator\bin\Debug\net8.0\ConditionalOperator.deps.json
+C:\Users\Daniel\Desktop\1st Certificate_Web & Computer Programming\C# Practice (Bro Code)\ConditionalOperator\bin\Debug\net8.0\ConditionalOperator.runtimeconfig.json
+C:\Users\Daniel\Desktop\1st Certificate_Web & Computer Programming\C# Practice (Bro Code)\ConditionalOperator\bin\Debug\net8.0\ConditionalOperator.dll
+C:\Users\Daniel\Desktop\1st Certificate_Web & Computer Programming\C# Practice (Bro Code)\ConditionalOperator\bin\Debug\net8.0\ConditionalOperator.pdb
+C:\Users\Daniel\Desktop\1st Certificate_Web & Computer Programming\C# Practice (Bro Code)\ConditionalOperator\obj\Debug\net8.0\ConditionalOperator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniel\Desktop\1st Certificate_Web & Computer Programming\C# Practice (Bro Code)\ConditionalOperator\obj\Debug\net8.0\ConditionalOperator.AssemblyInfoInputs.cache
+C:\Users\Daniel\Desktop\1st Certificate_Web & Computer Programming\C# Practice (Bro Code)\ConditionalOperator\obj\Debug\net8.0\ConditionalOperator.AssemblyInfo.cs
+C:\Users\Daniel\Desktop\1st Certificate_Web & Computer Programming\C# Practice (Bro Code)\ConditionalOperator\obj\Debug\net8.0\ConditionalOperator.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Desktop\1st Certificate_Web & Computer Programming\C# Practice (Bro Code)\ConditionalOperator\obj\Debug\net8.0\ConditionalOperator.dll
+C:\Users\Daniel\Desktop\1st Certificate_Web & Computer Programming\C# Practice (Bro Code)\ConditionalOperator\obj\Debug\net8.0\refint\ConditionalOperator.dll
+C:\Users\Daniel\Desktop\1st Certificate_Web & Computer Programming\C# Practice (Bro Code)\ConditionalOperator\obj\Debug\net8.0\ConditionalOperator.pdb
+C:\Users\Daniel\Desktop\1st Certificate_Web & Computer Programming\C# Practice (Bro Code)\ConditionalOperator\obj\Debug\net8.0\ConditionalOperator.genruntimeconfig.cache
+C:\Users\Daniel\Desktop\1st Certificate_Web & Computer Programming\C# Practice (Bro Code)\ConditionalOperator\obj\Debug\net8.0\ref\ConditionalOperator.dll

@@ -1,0 +1,14 @@
+C:\Users\Daniel\Desktop\1st Certificate_Web & Computer Programming\C# Practice (Bro Code)\ForEachLoop\bin\Debug\net8.0\ForEachLoop.exe
+C:\Users\Daniel\Desktop\1st Certificate_Web & Computer Programming\C# Practice (Bro Code)\ForEachLoop\bin\Debug\net8.0\ForEachLoop.deps.json
+C:\Users\Daniel\Desktop\1st Certificate_Web & Computer Programming\C# Practice (Bro Code)\ForEachLoop\bin\Debug\net8.0\ForEachLoop.runtimeconfig.json
+C:\Users\Daniel\Desktop\1st Certificate_Web & Computer Programming\C# Practice (Bro Code)\ForEachLoop\bin\Debug\net8.0\ForEachLoop.dll
+C:\Users\Daniel\Desktop\1st Certificate_Web & Computer Programming\C# Practice (Bro Code)\ForEachLoop\bin\Debug\net8.0\ForEachLoop.pdb
+C:\Users\Daniel\Desktop\1st Certificate_Web & Computer Programming\C# Practice (Bro Code)\ForEachLoop\obj\Debug\net8.0\ForEachLoop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniel\Desktop\1st Certificate_Web & Computer Programming\C# Practice (Bro Code)\ForEachLoop\obj\Debug\net8.0\ForEachLoop.AssemblyInfoInputs.cache
+C:\Users\Daniel\Desktop\1st Certificate_Web & Computer Programming\C# Practice (Bro Code)\ForEachLoop\obj\Debug\net8.0\ForEachLoop.AssemblyInfo.cs
+C:\Users\Daniel\Desktop\1st Certificate_Web & Computer Programming\C# Practice (Bro Code)\ForEachLoop\obj\Debug\net8.0\ForEachLoop.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Desktop\1st Certificate_Web & Computer Programming\C# Practice (Bro Code)\ForEachLoop\obj\Debug\net8.0\ForEachLoop.dll
+C:\Users\Daniel\Desktop\1st Certificate_Web & Computer Programming\C# Practice (Bro Code)\ForEachLoop\obj\Debug\net8.0\refint\ForEachLoop.dll
+C:\Users\Daniel\Desktop\1st Certificate_Web & Computer Programming\C# Practice (Bro Code)\ForEachLoop\obj\Debug\net8.0\ForEachLoop.pdb
+C:\Users\Daniel\Desktop\1st Certificate_Web & Computer Programming\C# Practice (Bro Code)\ForEachLoop\obj\Debug\net8.0\ForEachLoop.genruntimeconfig.cache
+C:\Users\Daniel\Desktop\1st Certificate_Web & Computer Programming\C# Practice (Bro Code)\ForEachLoop\obj\Debug\net8.0\ref\ForEachLoop.dll

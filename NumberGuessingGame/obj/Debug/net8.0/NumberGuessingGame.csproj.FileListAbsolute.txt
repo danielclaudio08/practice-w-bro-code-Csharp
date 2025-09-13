@@ -1,0 +1,14 @@
+C:\Users\Daniel\Desktop\1st Certificate_Web & Computer Programming\C# Practice (Bro Code)\NumberGuessingGame\bin\Debug\net8.0\NumberGuessingGame.exe
+C:\Users\Daniel\Desktop\1st Certificate_Web & Computer Programming\C# Practice (Bro Code)\NumberGuessingGame\bin\Debug\net8.0\NumberGuessingGame.deps.json
+C:\Users\Daniel\Desktop\1st Certificate_Web & Computer Programming\C# Practice (Bro Code)\NumberGuessingGame\bin\Debug\net8.0\NumberGuessingGame.runtimeconfig.json
+C:\Users\Daniel\Desktop\1st Certificate_Web & Computer Programming\C# Practice (Bro Code)\NumberGuessingGame\bin\Debug\net8.0\NumberGuessingGame.dll
+C:\Users\Daniel\Desktop\1st Certificate_Web & Computer Programming\C# Practice (Bro Code)\NumberGuessingGame\bin\Debug\net8.0\NumberGuessingGame.pdb
+C:\Users\Daniel\Desktop\1st Certificate_Web & Computer Programming\C# Practice (Bro Code)\NumberGuessingGame\obj\Debug\net8.0\NumberGuessingGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniel\Desktop\1st Certificate_Web & Computer Programming\C# Practice (Bro Code)\NumberGuessingGame\obj\Debug\net8.0\NumberGuessingGame.AssemblyInfoInputs.cache
+C:\Users\Daniel\Desktop\1st Certificate_Web & Computer Programming\C# Practice (Bro Code)\NumberGuessingGame\obj\Debug\net8.0\NumberGuessingGame.AssemblyInfo.cs
+C:\Users\Daniel\Desktop\1st Certificate_Web & Computer Programming\C# Practice (Bro Code)\NumberGuessingGame\obj\Debug\net8.0\NumberGuessingGame.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Desktop\1st Certificate_Web & Computer Programming\C# Practice (Bro Code)\NumberGuessingGame\obj\Debug\net8.0\NumberGuessingGame.dll
+C:\Users\Daniel\Desktop\1st Certificate_Web & Computer Programming\C# Practice (Bro Code)\NumberGuessingGame\obj\Debug\net8.0\refint\NumberGuessingGame.dll
+C:\Users\Daniel\Desktop\1st Certificate_Web & Computer Programming\C# Practice (Bro Code)\NumberGuessingGame\obj\Debug\net8.0\NumberGuessingGame.pdb
+C:\Users\Daniel\Desktop\1st Certificate_Web & Computer Programming\C# Practice (Bro Code)\NumberGuessingGame\obj\Debug\net8.0\NumberGuessingGame.genruntimeconfig.cache
+C:\Users\Daniel\Desktop\1st Certificate_Web & Computer Programming\C# Practice (Bro Code)\NumberGuessingGame\obj\Debug\net8.0\ref\NumberGuessingGame.dll
